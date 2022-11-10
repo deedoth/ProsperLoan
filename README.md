@@ -1,15 +1,13 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# (Prosper Loan)
+## by (Damilare Ayoola)
 
 
-## Dataset
+## Prosper Laon Data set
 
 > This data set contains 113,937 loans with 81 variables on each loan, but I've reduced it to 13 variables, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.
 
 
 ## Summary of Findings
-
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
 
 In the exploration, I found that higher percentage of poeple that opted for the loan signed up 
 36months Term. Probably becuase it give them enough time to repay back as much as it also increases 
